@@ -167,8 +167,13 @@ font-weight: normal !important;
 }
 
 /* border autour des images d'article */
-.notion-block-2877014047ac459598d1cfa6967dc096 {
+/* .notion-block-2877014047ac459598d1cfa6967dc096 {
   border: 1px solid #ddd !important;
+  padding: 8px !important;
+} */
+
+.notion-asset-wrapper .notion-asset-wrapper-image .notion-block-d61f765603724718b592ed65e38bc58c {
+   border: 1px solid #ddd !important;
   padding: 8px !important;
 }
 

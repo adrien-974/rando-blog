@@ -131,10 +131,15 @@ pre[class*='language-']:after {
 }
 
 /* Alignement en hauteur items menu navigation principal */
-.notion-toggle, .notion-block-22654ec5cecd4fe8ad26ee8740f12e33,
+/* .notion-toggle, .notion-block-22654ec5cecd4fe8ad26ee8740f12e33,
 .notion-toggle, .notion-block-427313d7dd344ff1b0da0fd783882e8f,
 .notion-toggle, .notion-block-3dac4b6ba7c544bfbc8862319f44d06a {
   margin-top: 7px !important;
+} */
+
+/* Page Accueil : Mise en gras date */
+.notion-property .notion-property-date {
+  font-weight: bold !important;
 }
 
 /* Mascage icon database sur pages */
@@ -178,7 +183,7 @@ pre[class*='language-']:after {
     padding: 8px !important;
   }
 
-/* Contour formulaire contact */
+/* Page Contact : Contour formulaire contact */
 .cOKDxC {
     display: flex;
     flex-flow: column nowrap;

@@ -145,8 +145,8 @@ pre[class*='language-']:after {
 }
 
 /* Texte en normal */
-#__next > div > div.notion-frame > div > main > div.notion-page-content.notion-page-content-has-aside > article > div.notion-collection.notion-block-48c09a64b1de428d980e703b8b282d29 > div > div > div > a:nth-child(1) > div.notion-collection-card-body > div:nth-child(3) > span {
-  font-weight: normal !important;
+.notion-gallery-grid .notion-property-text {
+font-weight: normal !important;
   font-style: italic !important;
   color: green !important;
 }

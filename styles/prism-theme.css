@@ -149,6 +149,11 @@ pre[class*='language-']:after {
   color: #717171 !important;
 }
 
+/* Page Articles -> texte */
+.notion-text {
+  color: #717171 !important;
+}
+
 /* Mascage icon database sur pages */
 .notion-collection-header {
  display: none !important; 

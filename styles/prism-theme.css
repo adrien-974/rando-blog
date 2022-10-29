@@ -147,6 +147,8 @@ pre[class*='language-']:after {
 /* Texte en normal */
 notion-property-text {
   font-weight: normal !important;
+  font-style: italic;
+  color: green;
 }
 
 /* Mascage icon database sur pages */

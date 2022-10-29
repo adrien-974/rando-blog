@@ -138,7 +138,7 @@ pre[class*='language-']:after {
 } */
 
 /* Page Accueil : Mise en gras date */
-div.notion-collection-card-body, .notion-property, .notion-property-date {
+.notion-property, .notion-property-date {
   font-weight: bold !important;
 }
 

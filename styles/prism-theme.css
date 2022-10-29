@@ -140,15 +140,15 @@ pre[class*='language-']:after {
 /* Page Accueil : Mise en gras date */
 .notion-property-date {
   font-weight: bold !important;
-  font-size: 30px !important;
-  color: red !important;
+  font-size: 18px !important;
+  color: #717171 !important;
 }
 
 /* Texte en normal */
 notion-property-text {
   font-weight: normal !important;
-  font-style: italic;
-  color: green;
+  font-style: italic !important;
+  color: green !important;
 }
 
 /* Mascage icon database sur pages */

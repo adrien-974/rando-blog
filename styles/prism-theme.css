@@ -189,8 +189,8 @@ font-weight: normal !important;
      font-style: italic!important;
    }
 
-/* Border image contour */
-.notion-asset-wrapper .notion-asset-wrapper-image .notion-block-c6081e33a0ea4ecf83d99a92732b264b {
+/* Border image contour des articles */
+.notion-asset-wrapper-image {
   border: 1px solid #ddd !important;
     padding: 8px !important;
   }

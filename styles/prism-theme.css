@@ -137,18 +137,16 @@ pre[class*='language-']:after {
   margin-top: 7px !important;
 } */
 
-/* Page Accueil : Mise en gras date */
+/* Page Accueil Card : Mise en gras date */
 .notion-property-date {
   font-weight: bold !important;
   font-size: 18px !important;
   color: #717171 !important;
 }
 
-/* Texte en normal Description */
+/* Texte en normal Description Card */
 .notion-gallery-grid .notion-property-text {
 font-weight: normal !important;
-  font-style: italic !important;
-  color: red !important;
 }
 
 /* Mascage icon database sur pages */

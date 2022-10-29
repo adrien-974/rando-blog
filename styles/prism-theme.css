@@ -126,6 +126,81 @@ pre[class*='language-']:after {
 
 /* =================================== CSS PERSO =================================== */
 
+.styles_githubCorner__7QjNo {
+  display: none !important;
+}
+
+/* Alignement en hauteur items menu navigation principal */
+.notion-toggle, .notion-block-22654ec5cecd4fe8ad26ee8740f12e33,
+.notion-toggle, .notion-block-427313d7dd344ff1b0da0fd783882e8f,
+.notion-toggle, .notion-block-3dac4b6ba7c544bfbc8862319f44d06a {
+  margin-top: 7px !important;
+}
+
+/* Mascage icon database sur pages */
+.notion-collection-header {
+ display: none !important; 
+}
+
+/* Masquage des icons de pages liées */
+.notion-page-link, .notion-block-e71aa73eccc9419ab2a9de8b84a55c4f, 
+.notion-page-link, .notion-block-c7117f96c5244e89bb3ed5c3aac6edae,
+.notion-page-link, .notion-block-4622e63d55b84e3a91e4d5e108d4ed7a,
+.notion-page-link, .notion-block-d9a60edefc784d1e8c9b2f534924340d,
+.notion-page-link, .notion-block-c1e21e8dfc904e4f935ebcab2336cb43,
+.notion-page-link, .notion-block-9100441e034a49e89453bd0cf5def52c,
+.notion-page-link, .notion-block-9d7fd947231e49168cc5403a5cb86e35,
+.notion-block-4a5873ba32e747b89f5832caa2f6f2f6 {
+ display: none !important; 
+}
+
+/* border autour des images d'article */
+.notion-block-2877014047ac459598d1cfa6967dc096 {
+  border: 1px solid #ddd !important;
+  padding: 8px !important;
+}
+
+/* Légende image article */
+.notion-asset-caption {
+    text-align: center !important;
+    color: #bbb !important;
+    font-style: italic !important;
+} 
+
+ .notion-selectable .notion-image-block .notion-enable-hover {
+     color: ##ABABAB !important;
+     font-style: italic!important;
+   }
+
+/* Border image contour */
+.notion-asset-wrapper .notion-asset-wrapper-image .notion-block-c6081e33a0ea4ecf83d99a92732b264b {
+  border: 1px solid #ddd !important;
+    padding: 8px !important;
+  }
+
+/* Contour formulaire contact */
+.cOKDxC {
+    display: flex;
+    flex-flow: column nowrap;
+    border: 1px solid red !important;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .notion-search-button {
+    display: none !important;
+  }
+.notion-selectable, .notion-image-block {
+    width: 100% !important;
+    border: 1px solid #ddd !important;
+    padding: 8px !important;
+    color: ##ABABAB !important;
+    font-style: italic !important;
+  }
+  
+    }
 
 
 

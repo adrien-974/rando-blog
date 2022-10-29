@@ -144,11 +144,11 @@ pre[class*='language-']:after {
   color: #717171 !important;
 }
 
-/* Texte en normal */
+/* Texte en normal Description */
 .notion-gallery-grid .notion-property-text {
 font-weight: normal !important;
   font-style: italic !important;
-  color: green !important;
+  color: red !important;
 }
 
 /* Mascage icon database sur pages */

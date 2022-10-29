@@ -142,6 +142,10 @@ pre[class*='language-']:after {
   font-weight: bold !important;
 }
 
+notion-property-text {
+  font-weight: normal !important;
+}
+
 /* Mascage icon database sur pages */
 .notion-collection-header {
  display: none !important; 

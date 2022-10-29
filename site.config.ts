@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Adrien974',
 
   // open graph metadata (optional)
-  description: 'Mise en place du blog !',
+  description: 'Rando blog est un espace de partage de nos randonnées, randos itinérantes, voyages et de visites de lieux en France ou ailleurs. N’hésitez pas à nous contacter.',
 
   // social usernames (optional)
   twitter: '',

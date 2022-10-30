@@ -169,7 +169,7 @@ pre[class*='language-']:after {
   }
   
 /* Page Accueil -> Card : Page title text */
-.notion-page-title-text {
+.notion-property-date, .notion-page-title-text {
   text-align: center !important;
 }
   

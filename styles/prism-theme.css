@@ -136,7 +136,7 @@ pre[class*='language-']:after {
 /* Masquage icone Callout */
 .notion-callout .notion-page-icon-inline {
   display: none !important;
-  padding-left: 25px;
+  /*padding-left: 25px;*/
 }
 
 .notion-callout-text {

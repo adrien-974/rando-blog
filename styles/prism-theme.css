@@ -166,6 +166,9 @@ pre[class*='language-']:after {
 }
 
 /* Notion page link */
+div.notion-collection-card-body.notion-page-link {
+  text-align: center !importan;
+}
 
 
 /* Page Accueil -> Card : Mise en gras date */

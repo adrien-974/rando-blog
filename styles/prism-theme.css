@@ -167,7 +167,9 @@ pre[class*='language-']:after {
 
 /* Notion page link */
 .notion-page-link {
-  text-align: center !important;
+  max-width: 383px;
+  width: 100%;
+  margin: 0 auto !important;
 }
 
 /* Page Accueil -> Card : Mise en gras date */

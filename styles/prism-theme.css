@@ -132,7 +132,7 @@ pre[class*='language-']:after {
 
 /* Page Accueil -> Card : Page title text */
 .notion-page-title-text {
-  font-family: "Arial", sans-serif !important;
+  font-family: "Helvetica Neue",sans-serif !important;
 }
 
 /* Page Accueil -> Card : Mise en gras date */

@@ -166,10 +166,11 @@ pre[class*='language-']:after {
 }
 
 /* Notion page link */
-.notion-page-link {
+span.notion-page-link {
   max-width: 383px;
   width: 100%;
   margin: 0 auto !important;
+  background-color: red !important;
 }
 
 /* Page Accueil -> Card : Mise en gras date */

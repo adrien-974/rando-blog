@@ -139,9 +139,9 @@ pre[class*='language-']:after {
   padding-left: 25px;
 }
 
-.notion-callout-text {
-  width: 85%;
-  margin: 0 auto;
+div.notion-callout-text {
+  width: 85% !important;
+  margin: 0 auto !important;
 }
 
 /* 

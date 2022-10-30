@@ -142,6 +142,7 @@ pre[class*='language-']:after {
 .notion-callout-text {
   width: 99% !important;
   margin: 0 auto !important;
+  text-align: center !important;
 }
 
 /* 

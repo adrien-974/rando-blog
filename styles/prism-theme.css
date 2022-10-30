@@ -130,9 +130,16 @@ pre[class*='language-']:after {
   display: none !important;
 }
 
-/* Masquage icone pages liées */
-.notion-page-link .notion-block-e5be0e9a5f6d4e739d42026c40e49ac9 {
-  display: none !important;
+/* Masquage des icons de pages liées */
+.notion-page-link, .notion-block-e5be0e9a5f6d4e739d42026c40e49ac9,
+.notion-page-link, .notion-block-fd96be2f375c4879addc5bc85c4755ac,
+.notion-page-link, .notion-block-867c092bf4914f49980d7239a9dbc24b,
+.notion-page-link, .notion-block-231938fcc5c644c28cee33b2695b2421,
+.notion-page-link, .notion-block-2b4fa086f10a42b29d60bcef2cddcccd,
+.notion-page-link, .notion-block-ff4389b35b1a4a7aa714ac974e7899bd,
+.notion-page-link, .notion-block-5987019007094a3ca1d3c04eeaebeffc,
+.notion-page-link, .notion-block-ee5baf4a4b38498092def57f7d0725c6 {
+ display: none !important; 
 }
 
 /* Page Accueil -> Card : Page title text */

@@ -154,7 +154,7 @@ pre[class*='language-']:after {
 
 /* Notion page title text */
 .notion-page-title-text {
-  color: orange !important;
+  color: blue !important;
   font-family: Gill Sans, sans-serif !important;
 }
 

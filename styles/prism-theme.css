@@ -140,7 +140,7 @@ pre[class*='language-']:after {
 }
 
 div.notion-callout-text {
-  width: 100% !important;
+  width: 95% !important;
   margin: 0 auto !important;
 }
 

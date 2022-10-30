@@ -132,7 +132,7 @@ pre[class*='language-']:after {
 
 /* Masquage des icons de pages liées */
 /* Icone page liée Stevenson */
-.notion-block-fd96be2f375c4879addc5bc85c4755ac
+.notion-block-fd96be2f375c4879addc5bc85c4755ac,
 /* Icone page liée Rando */
 .notion-block-e5be0e9a5f6d4e739d42026c40e49ac9 {
  display: none !important; 

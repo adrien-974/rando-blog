@@ -160,6 +160,31 @@ pre[class*='language-']:after {
 }
 
 
+/* ============================= Mobile ============================= */
+
+@media only screen and (max-width: 600px) {
+
+  .notion-search-button {
+    display: none !important;
+  }
+  
+/* Page Accueil -> Card : Page title text */
+.notion-page-title-text {
+  text-align: center !important;
+}
+  
+.notion-selectable, .notion-image-block {
+    width: 100% !important;
+    border: 1px solid #ddd !important;
+    padding: 8px !important;
+    color: ##ABABAB !important;
+    font-style: italic !important;
+  }
+  
+    }
+
+
+
 
 
 

@@ -130,9 +130,9 @@ pre[class*='language-']:after {
   display: none !important;
 }
 
-/* Notion page title text */
+/* Page Accueil -> Card : Page title text */
 .notion-page-title-text {
-  font-family: "Gill Sans", sans-serif !important;
+  font-family: "Arial", sans-serif !important;
 }
 
 /* Page Accueil -> Card : Mise en gras date */

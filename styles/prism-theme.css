@@ -131,7 +131,12 @@ pre[class*='language-']:after {
 }
 
 /* Page Accueil -> Card : Page title text */
-.notion-page-title-text {
+/* .notion-page-title-text {
+  font-family: "Helvetica Neue",sans-serif !important;
+  letter-spacing: -1px !important;
+} */
+
+.notion-collection-card-property .notion-page-title {
   font-family: "Helvetica Neue",sans-serif !important;
   letter-spacing: -1px !important;
 }
@@ -169,9 +174,14 @@ pre[class*='language-']:after {
   }
   
 /* Page Accueil -> Card : Page title text */
-.notion-property-date .notion-page-title-text {
+/* .notion-property-date .notion-page-title-text {
+  text-align: center !important;
+} */
+  
+  .notion-collection-card-property .notion-page-title {
   text-align: center !important;
 }
+
   
 .notion-selectable, .notion-image-block {
     width: 100% !important;

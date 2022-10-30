@@ -130,9 +130,15 @@ pre[class*='language-']:after {
   display: none !important;
 }
 
+/* Notion page title text */
+.notion-page-title-text {
+  font-family: "Gill Sans", sans-serif !important;
+}
+
 /* Page Accueil -> Card : Mise en gras date */
 .notion-property-date {
   font-weight: bold !important;
+  color: #717171 !important;
   font-size: 16px !important;
 }
 
@@ -152,11 +158,7 @@ pre[class*='language-']:after {
  display: none !important; 
 }
 
-/* Notion page title text */
-.notion-page-title-text {
-  color: blue !important;
-  font-family: Gill Sans, sans-serif !important;
-}
+
 
 
 

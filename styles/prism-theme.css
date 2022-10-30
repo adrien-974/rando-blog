@@ -133,7 +133,7 @@ pre[class*='language-']:after {
 /* Page Accueil -> Card : Page title text */
 .notion-page-title-text {
   font-family: "Helvetica Neue",sans-serif !important;
-  letter-spacing: -2px !important;
+  letter-spacing: -1px !important;
 }
 
 /* Page Accueil -> Card : Mise en gras date */

@@ -136,10 +136,6 @@ pre[class*='language-']:after {
 } */
 
 
-.notion-page-title-text {
- display: none !important; 
-}
-
 /* Page Accueil -> Card : Page title text */
 /* .notion-page-title-text {
   font-family: "Helvetica Neue",sans-serif !important;

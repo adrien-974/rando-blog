@@ -209,6 +209,14 @@ div.notion-collection-card-body.notion-page-link {
  display: none !important; 
 }
 
+/*
+  Page Contact
+*/
+/* Suppression icon Chilipepper */
+.sc-bdfBwQ .bLPErx {
+  display: none !important;
+}
+
 
 /* ============================= Mobile ============================= */
 

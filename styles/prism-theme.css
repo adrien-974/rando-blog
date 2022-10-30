@@ -165,6 +165,11 @@ pre[class*='language-']:after {
   letter-spacing: -1px !important;
 }
 
+/* Notion page link */
+.notion-page-link {
+  text-align: center !important;
+}
+
 /* Page Accueil -> Card : Mise en gras date */
 .notion-property-date {
   font-weight: bold !important;

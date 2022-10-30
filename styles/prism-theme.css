@@ -130,6 +130,14 @@ pre[class*='language-']:after {
   display: none !important;
 }
 
+/*
+    Navbar
+*/
+/* Masquage icone Callout */
+.notion-callout .notion-page-icon-inline {
+  display: none !important;
+}
+
 /* 
     Masquage des icons de pages liées 
 */

@@ -139,7 +139,7 @@ pre[class*='language-']:after {
   padding-left: 25px;
 }
 
-div.notion-callout-text {
+.notion-callout-text {
   width: 95% !important;
   margin: 0 auto !important;
 }

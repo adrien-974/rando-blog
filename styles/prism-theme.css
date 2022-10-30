@@ -178,7 +178,11 @@ pre[class*='language-']:after {
   text-align: center !important;
 } */
   
-  .notion-collection-card-property .notion-page-title {
+.notion-collection-card-body 
+.notion-collection-card-property 
+.notion-property .notion-property-title 
+.notion-page-link .notion-page-title 
+.notion-page-title-text {
   text-align: center !important;
 }
 

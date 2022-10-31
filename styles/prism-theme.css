@@ -217,7 +217,7 @@ div.notion-collection-card-body.notion-page-link {
   Page Itinérance
 */
 /* Border autour des images cliquables */
-.notion-asset-wrapper {
+.notion-asset-wrapper .notion-asset-wrapper-image .notion-block-80466d1a05ef4c6ab1218e303e252166 {
     border: 1px solid #717171 !important;
     padding: 6px !important;
 }

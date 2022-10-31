@@ -198,7 +198,7 @@ div.notion-collection-card-body.notion-page-link {
 }
 
 /* Page Accueil -> Card : Texte Description en normal  */
- .notion-gallery-grid .notion-property-text {
+figure .notion-asset-wrapper .notion-asset-wrapper-image .notion-block-7c2f6c820f2e4a5ebb683cc96668cc85 {
   font-weight: normal !important;
   color: #717171 !important;
 }

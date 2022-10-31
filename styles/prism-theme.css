@@ -227,7 +227,7 @@ div.notion-collection-card-body.notion-page-link {
   display: none !important;
 }
 
-.kbWvWF a {
+#__next > div > div:nth-child(2) > div.sc-fubCfw.jPfEIy > a {
   display: none !important;
 }
 

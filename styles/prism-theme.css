@@ -223,7 +223,7 @@ div.notion-collection-card-body.notion-page-link {
 */
 
 /* Suppression icon Chilipepper */
-.sc-gsTCUz kbWvWF a {
+a > .sc-gsTCUz kbWvWF {
   display: none !important;
 }
 

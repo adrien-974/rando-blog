@@ -228,12 +228,10 @@ figure.notion-asset-wrapper.notion-asset-wrapper-image.notion-block-1600d769640a
   ================ Page Itinérance ================
 */
 /* Border autour des images cliquables */
-/*
 .notion-asset-wrapper, .notion-asset-wrapper-image {
     border: 1px solid #717171 !important;
     padding: 6px !important;
 }
-*/
 
 
 /*
@@ -272,6 +270,10 @@ a > .sc-gsTCUz kbWvWF {
     padding: 8px !important;
     color: ##ABABAB !important;
     font-style: italic !important;
+  }
+  
+  .notion-block-09c41b03d373458c859e6222824b5765 {
+    width: 100% !important;
   }
   
     }

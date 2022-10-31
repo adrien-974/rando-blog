@@ -174,10 +174,10 @@ pre[class*='language-']:after {
 
 
 /* Page Accueil -> Card : Page title text */
-/* .notion-page-title-text {
+.notion-page-title-text {
   font-family: "Helvetica Neue",sans-serif !important;
   letter-spacing: -1px !important;
-} */
+} 
 
 .notion-collection-card-property .notion-page-title {
   font-family: "Helvetica Neue",sans-serif !important;
@@ -192,13 +192,12 @@ div.notion-collection-card-body.notion-page-link {
 
 /* Page Accueil -> Card : Mise en gras date */
 .notion-property-date {
-  /* font-weight: bold !important; */
   color: #717171 !important;
   font-size: 16px !important;
 }
 
 /* Page Accueil -> Card : Texte Description en normal  */
-/* figure.notion-asset-wrapper.notion-asset-wrapper-image.notion-block-7c2f6c820f2e4a5ebb683cc96668cc85 {
+figure.notion-asset-wrapper.notion-asset-wrapper-image.notion-block-7c2f6c820f2e4a5ebb683cc96668cc85 {
   font-weight: normal !important;
   color: #717171 !important;
 }
@@ -212,7 +211,7 @@ figure.notion-asset-wrapper.notion-asset-wrapper-image.notion-block-1600d769640a
   font-weight: normal !important;
   color: #717171 !important;
 }
-*/
+
 
 /* Page Articles -> texte */
 .notion-text {
@@ -254,14 +253,14 @@ a > .sc-gsTCUz kbWvWF {
   }
   
 /* Page Accueil -> Card : Page title text */
-/* .notion-property-date .notion-page-title-text {
+.notion-property-date .notion-page-title-text {
   text-align: center !important;
-} */
+} 
   
 
-/* .notion-page-title-text {
+.notion-page-title-text {
   text-align: center !important;
-} */
+} 
 
   
 .notion-selectable, .notion-image-block {

@@ -228,7 +228,7 @@ figure.notion-asset-wrapper.notion-asset-wrapper-image.notion-block-1600d769640a
 */
 /* Border autour des images cliquables */
 .notion-asset-wrapper, .notion-asset-wrapper-image {
-    border: 1px solid #ABABAB !important;
+    border: 1px solid #ddd !important;
     padding: 6px !important;
 }
 

@@ -145,7 +145,7 @@ pre[class*='language-']:after {
   text-align: center !important;
 }
 
-.notion-callout-text, .notion-link {
+.notion-callout-text .notion-link {
   text-decoration: none;
 }
 

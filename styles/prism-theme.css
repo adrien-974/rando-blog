@@ -198,7 +198,17 @@ div.notion-collection-card-body.notion-page-link {
 }
 
 /* Page Accueil -> Card : Texte Description en normal  */
-figure .notion-asset-wrapper .notion-asset-wrapper-image .notion-block-7c2f6c820f2e4a5ebb683cc96668cc85 {
+figure.notion-asset-wrapper.notion-asset-wrapper-image.notion-block-7c2f6c820f2e4a5ebb683cc96668cc85 {
+  font-weight: normal !important;
+  color: #717171 !important;
+}
+
+figure.notion-asset-wrapper.notion-asset-wrapper-image.notion-block-80466d1a05ef4c6ab1218e303e252166 {
+  font-weight: normal !important;
+  color: #717171 !important;
+}
+
+figure.notion-asset-wrapper.notion-asset-wrapper-image.notion-block-1600d769640a4f2198d85586f2582823 {
   font-weight: normal !important;
   color: #717171 !important;
 }

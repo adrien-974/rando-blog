@@ -223,13 +223,10 @@ div.notion-collection-card-body.notion-page-link {
 */
 
 /* Suppression icon Chilipepper */
-.sc-fubCfw .jPfEIy {
+.sc-gsTCUz, kbWvWF,a {
   display: none !important;
 }
 
-#__next > div > div:nth-child(2) > div.sc-fubCfw.jPfEIy > a {
-  display: none !important;
-}
 
 
 /* ============================= Mobile ============================= */

@@ -152,25 +152,25 @@ pre[class*='language-']:after {
 }
 
 /* 
-    Masquage des icons des pages liées
+    Masquage des icons des pages liées sur page accueil
 */
 
 /* Icone page liée Stevenson */
-/*.notion-block-fd96be2f375c4879addc5bc85c4755ac,*/
+.notion-block-fd96be2f375c4879addc5bc85c4755ac,
 /* Icone page liée Rando */
-/*.notion-block-e5be0e9a5f6d4e739d42026c40e49ac9,*/
+.notion-block-e5be0e9a5f6d4e739d42026c40e49ac9,
 /* Icone page liée Les Abers */
-/*.notion-block-867c092bf4914f49980d7239a9dbc24b,*/
+.notion-block-867c092bf4914f49980d7239a9dbc24b,
 /* Icone page liée Galerie photos */
-/*.notion-block-231938fcc5c644c28cee33b2695b2421,*/
+.notion-block-231938fcc5c644c28cee33b2695b2421,
 /* Icone page liée Contact */
-/*.notion-block-2b4fa086f10a42b29d60bcef2cddcccd,*/
+.notion-block-2b4fa086f10a42b29d60bcef2cddcccd,
 /* Icone page Email-reçu */
-/*.notion-block-ff4389b35b1a4a7aa714ac974e7899bd,*/
+.notion-block-ff4389b35b1a4a7aa714ac974e7899bd,
 /* Icone page A propos */
-/*.notion-block-ee5baf4a4b38498092def57f7d0725c6,*/
+.notion-block-ee5baf4a4b38498092def57f7d0725c6,
 /* Icone page Footer */
-/*.notion-block-5987019007094a3ca1d3c04eeaebeffc {
+.notion-block-5987019007094a3ca1d3c04eeaebeffc {
  display: none !important; 
 } */
 

@@ -276,17 +276,19 @@ a > .sc-gsTCUz kbWvWF {
   }
 
 /* Center titre image cliquable */  
-div.notion-text.notion-block-15a7a3101ed340e6bf4bd4c526f76937 {
+div.notion-text.notion-block-15a7a3101ed340e6bf4bd4c526f76937
+div.notion-text.notion-block-f506e474fbba4393b8651dda9747aef9
+div.notion-text.notion-block-667d023efc0b4061a5f8ffbffebb46d5 {
     text-align: center !important;
   }
   
-div.notion-text.notion-block-f506e474fbba4393b8651dda9747aef9 {
+/* div.notion-text.notion-block-f506e474fbba4393b8651dda9747aef9 {
     text-align: center !important;
   }
   
 div.notion-text.notion-block-667d023efc0b4061a5f8ffbffebb46d5 {
     text-align: center !important;
-  }
+  } */
   
 /* Suppression Border autour des images cliquables */
 .notion-asset-wrapper, .notion-asset-wrapper-image {

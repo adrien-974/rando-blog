@@ -248,7 +248,7 @@ a > .sc-gsTCUz kbWvWF {
 
 @media only screen and (max-width: 600px) {
 
-  .notion-search-button {
+.notion-search-button {
     display: none !important;
   }
   
@@ -271,13 +271,19 @@ a > .sc-gsTCUz kbWvWF {
     font-style: italic !important;
   }
   
-  .notion-block-09c41b03d373458c859e6222824b5765 {
+.notion-block-09c41b03d373458c859e6222824b5765 {
     width: 100% !important;
   }
   
-  .notion-text.notion-block-15a7a3101ed340e6bf4bd4c526f76937 {
+.notion-text.notion-block-15a7a3101ed340e6bf4bd4c526f76937 {
     text-align: center !important;
   }
+  
+  /* Suppression Border autour des images cliquables */
+.notion-asset-wrapper, .notion-asset-wrapper-image {
+    border: none !important;
+    padding: 0px !important;
+}
   
     }
 

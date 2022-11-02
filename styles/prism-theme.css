@@ -154,8 +154,7 @@ pre[class*='language-']:after {
 /* 
     Masquage des icons des pages liées sur page accueil
 */
-
-.notion-toggle,.notion-block-a271d3ad48214b28a8915b022af76e06 {
+.notion-toggle {
   display: none !important; 
 }
 

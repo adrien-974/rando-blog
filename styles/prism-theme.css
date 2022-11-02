@@ -155,7 +155,7 @@ pre[class*='language-']:after {
     Masquage des icons des pages liées sur page accueil
 */
 
-.notion-page-link .notion-block-e5be0e9a5f6d4e739d42026c40e49ac9 {
+a.notion-page-link.notion-block-e5be0e9a5f6d4e739d42026c40e49ac9 {
  display: none !important; 
 }
 

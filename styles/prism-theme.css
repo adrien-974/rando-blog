@@ -168,7 +168,7 @@ a.notion-page-link,.notion-block-5987019007094a3ca1d3c04eeaebeffc {
 }
 */
 
-.notion-page-link {
+span.notion-page-title-text {
   display: none !important;
 }
 

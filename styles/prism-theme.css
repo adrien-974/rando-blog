@@ -190,6 +190,10 @@ div.notion-text.notion-yellow_background.notion-block-653742c0974f45cc83e84b170e
 border-radius: 50px !important; 
   bakground-color: green !important;
 }
+.notion-yellow_background {
+  text-align: center !important;
+  padding: 20px 0 !important;
+}
 
 /* Page Accueil -> Card : Texte Description en normal  */
 

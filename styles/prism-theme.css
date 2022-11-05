@@ -186,7 +186,7 @@ div.notion-collection-card-body.notion-page-link {
     Boutons Article précédent et Article suivant des pages articles
 
 */
-.notion-gray_background_co  {
+#__next > div > div.notion-frame > div > main > div.notion-page-content.notion-page-content-has-aside.notion-page-content-has-toc > article > div.notion-row.notion-block-9c512072452e4d63866eb9211ba38784 > div.notion-column.notion-block-3a055f5b1bed439daad2a6890f29fb72 > div {
   border-radius: 50px !important; 
   bakground-color: green !important;
 }

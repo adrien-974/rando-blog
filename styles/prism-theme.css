@@ -186,7 +186,7 @@ div.notion-collection-card-body.notion-page-link {
     Boutons Article précédent et Article suivant des pages articles
 
 */
-div.notion-callout.notion-gray_background_co.notion-block-99d272c39ccc401eb9a42180b0d30654 {
+div.notion-text.notion-purple_background.notion-block-6c863275f8a64a90be839813ef98ff5c {
 border-radius: 50px !important; 
   bakground-color: green !important;
 }
@@ -194,6 +194,15 @@ border-radius: 50px !important;
   text-align: center !important;
   padding: 20px 0 !important;
 }
+
+
+
+
+
+
+
+
+
 
 /* Page Accueil -> Card : Texte Description en normal  */
 

@@ -186,7 +186,7 @@ div.notion-collection-card-body.notion-page-link {
     Boutons Article précédent et Article suivant des pages articles
 
 */
-.notion-callout.notion-gray_background_co {
+.notion-callout {
   border-radius: 50px !important; 
   bakground-color: red !important;
 }

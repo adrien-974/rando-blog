@@ -241,14 +241,7 @@
   transition-duration: 300ms;
 }
 
-.notion-red_background {
-   background-color: red;
-   padding: 0 0.5rem;
-   margin: 0 -0.5rem 0 -0.25rem;
-   border-radius: 0.5rem;
-}
-
-
+.notion-red_background,
 .notion-pink_background,
 .notion-blue_background,
 .notion-purple_background,

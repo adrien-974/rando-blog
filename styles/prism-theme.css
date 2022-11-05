@@ -186,8 +186,9 @@ div.notion-collection-card-body.notion-page-link {
     Boutons Article précédent et Article suivant des pages articles
 
 */
-.notion-purple_background, {
+.notion-purple_background {
   padding: 1rem 0.5rem !important;
+  text-align: center !important;
   
 }
 
